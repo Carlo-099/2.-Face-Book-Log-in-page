@@ -1,0 +1,90 @@
+body{
+    margin: 0;
+    text-align: center;
+    margin-top: 15px;
+    
+}
+.Fb-Line{
+    font-family: Arial;
+    font-weight: normal;
+    margin: 0;
+}
+.Login-Container{
+    width: 385px;
+    margin: 30px auto;
+    box-shadow: 0 0 5px 3px rgba(0,0,0,0.1);
+    margin:25px auto;
+    background-color: white;
+    border-radius: 8px;
+    padding: 15px;
+}
+input{
+    display: block;
+    width: 92%;
+    outline: none;
+    padding: 15px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 1px solid rgba(0,0,0,0.1);
+    margin-top: 10px;
+}
+
+.Login{
+    width: 100%;
+    display: block;
+    margin-top: 15px;
+    padding: 15px 0;
+    color: white;
+    font-size: 22px;
+    background-color: #1877f2;
+    border-radius: 6px;
+    border: 1px;
+    font-weight: bold;
+}
+.Fpass{
+    margin: 15px 0;
+    display: block;
+    font-family: Arial;
+    text-decoration: none;
+    color: #1877f2;
+    font-size: 14px;
+}
+.Fpass:hover{
+    text-decoration:underline ;
+}
+
+hr{
+    margin: 15px 0;
+    opacity: 0.8;
+}
+
+.Creat{
+    width: 50%;
+    margin: 15px auto;
+    padding: 15px;
+    color: white;
+    font-size: 10px;
+    background-color: #1877f2;
+    border-radius: 6px;
+    border: 1px;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: #42b72a;
+    transition: background-color 0.5s ;
+}
+.Creat:hover{
+    background-color: #31911e;
+}
+
+.Page{
+    font-weight:bold;
+    text-decoration: none;
+    color: black;    
+}
+.Page:hover{
+    text-decoration: underline;
+}
+.Celebrity{
+    font-family: Arial;
+    font-size: 14px;
+}
